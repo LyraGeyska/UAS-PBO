@@ -6,7 +6,7 @@ Ujian Akhir Semester PBO, Membuat CRUD Mahasiswa disertai dengan laporan menggun
 ### a. Buatlah database dengan atribut berikut :
 ![image](https://github.com/user-attachments/assets/2b612ddd-ce32-4238-bff1-3e579cff3b5b)
 
-## 2. Membuat Projek/Package baru pada Netbenas, dan menyambungkan database menggunakan Persistance.
+## 2. Membuat Projek/Package baru pada Netbeans, dan menyambungkan database menggunakan Persistance.
 ### a. Masuk netbeans, buat package baru
 ![image](https://github.com/user-attachments/assets/fa3f4981-191f-497e-a4bc-f2ee2e31bed6)
 ### b. Kemudian buat file Persistance untuk menyambungkan ke database, klik kanan pada Package > New > Entity Classes from Databases
